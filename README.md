@@ -10,22 +10,10 @@
 🌐 **Connect:** [LinkedIn](http://linkedin.com/in/aswanth-s-1b410826a) | [LeetCode](https://leetcode.com/u/ASWANTH_75/)  
 
 ---
-### 🛠️ **Technical Skills**
-
-#### **Languages & Frameworks**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,tensorflow,pytorch,react,django,flask,nodejs" />
-</p>
-
-#### **Data & Machine Learning**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,mongodb,mysql,postgres,redis,scikitlearn,selenium" />
-</p>
-
-#### **Tools & DevOps**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,linux,raspberrypi,vscode" />
-</p>
+I Code In
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,c,java,html,css,bootstrap,js,tensorflow,react,mysql,mongodb,nodejs,keras,numpy,pandas,django,streamlit,scikitlearn,spark,jupyter,colab" /> </p>
+IDE and Tools I Use
+<p align="center"> <img src="https://skillicons.dev/icons?i=vscode,git,eclipse,figma,docker,jenkins,powerbi,tableau,hadoop,oracle" /> </p>
 
 ---
 ## 🏆 Certifications  
