@@ -11,7 +11,7 @@
 
 ---
 I Code In
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,c,java,html,css,bootstrap,js,tensorflow,react,mysql,mongodb,nodejs,keras,numpy,pandas,django,streamlit,scikitlearn,spark,jupyter,colab" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,html,css,bootstrap,js,tensorflow,react,mysql,mongodb,nodejs,scikitlearn" /> </p>
 IDE and Tools I Use
 <p align="center"> <img src="https://skillicons.dev/icons?i=vscode,git,eclipse,figma,docker,jenkins,powerbi,tableau,hadoop,oracle" /> </p>
 
