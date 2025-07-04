@@ -1,5 +1,6 @@
-**ASWANTH S**
-
+<h1 align="center">
+  <strong style="font-size: 42px;">ASWANTH S</strong>
+</h1>
 
 ---
 
