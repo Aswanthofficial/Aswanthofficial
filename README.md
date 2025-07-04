@@ -1,4 +1,4 @@
-*ASWANTH S*
+**ASWANTH S**
 
 
 ---
@@ -22,14 +22,6 @@ IDE and Tools I Use
 
 ---
 [![Leetcode Stats](https://leetcard.jacoblin.cool/aswanth_75?theme=light&font=Tiro%20Kannada&ext=contest)](https://leetcode.com/u/ASWANTH_75/)
-
-## 📈 My GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aswanthofficial&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aswanthofficial&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswanthofficial&layout=compact&theme=radical" alt="Top Languages" />
-</p>  
 
 ---
 
