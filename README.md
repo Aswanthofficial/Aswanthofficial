@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=2D3748&center=true&vCenter=true&width=650&height=50&lines=Hi+there,+I'm+Aswanth+S+👋;AI+and+Data+Science+Undergraduate;Machine+Learning+%7C+Full-Stack+Development;Building+Intelligent+and+Scalable+Solutions" alt="Typing Animation" />
-</p>
+*ASWANTH S*
 
 
 ---
