@@ -1,11 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=2D3748&center=true&vCenter=true&width=600&height=50&lines=Hello,+I'm+Aswanth+S+⭐;AI+Student+%7C+Software+Developer;Specializing+in+ML+%26+Full-Stack+Systems" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=2D3748&center=true&vCenter=true&width=650&height=50&lines=Hi+there,+I'm+Aswanth+S+👋;AI+and+Data+Science+Undergraduate;Machine+Learning+%7C+Full-Stack+Development;Building+Intelligent+and+Scalable+Solutions" alt="Typing Animation" />
 </p>
+
 
 ---
 
 🎓 **B.Tech in Artificial Intelligence and Data Science**  
-📍 **Karpagam College of Engineering | Class of 2026**  
+📍 **Karpagam College of Engineering**
 📧 **Email:** [aswanthofficial05@gmail.com](mailto:aswanthofficial05@gmail.com)  
 🌐 **Connect:** [LinkedIn](http://linkedin.com/in/aswanth-s-1b410826a) | [LeetCode](https://leetcode.com/u/ASWANTH_75/)  
 
